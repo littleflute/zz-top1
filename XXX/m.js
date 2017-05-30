@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Poke Chop Sandwich.mp3";		
+f[2]	= "02 Crucifixx-A-Flatt.mp3";		
+f[3]	= "03 Fearless Boogie.mp3";		
+f[4]	= "04 36-22-36.mp3";		
+f[5]	= "05 Made into a Movie.mp3";		
+f[6]	= "06 Beatbox.mp3";		
+f[7]	= "07 Trippin'.mp3";		
+f[8]	= "08 Dreadmonboogaloo.mp3";		
+f[9]	= "09 Introduction by Ross Mitchell.mp3";		
+f[10]	= "10 Sinpusher.mp3";		
+f[11]	= "11 (Let Me Be Your) Teddy Bear.mp3";		
+f[12]	= "12 Hey Mr. Millionaire.mp3";		
+f[13]	= "13 Belt Buckle.mp3";		
